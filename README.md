@@ -3,7 +3,7 @@ Wafflus/Wafflus is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![WafflusBanner](https://user-images.githubusercontent.com/71723988/164985938-c184df6a-3ef3-40c7-91cb-8e8f86f3b144.png)
+![WafflusBanner](https://user-images.githubusercontent.com/71723988/207657538-6c492d50-752a-4068-a007-9e50dd6e3b37.png)
 
 **Welcome** to my **profile**!
 
