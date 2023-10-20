@@ -17,7 +17,7 @@ A simple amateur game & web developer who has made a few **tutorials for Unity**
 
 - 🎨 [Portfolio](https://portfolio.wafflus.com)
 - 🐶 [Random API Website](https://randomapi.wafflus.com)
-- 💼 [Online Job Posting](https://jb.wafflus.com)
+- 💼 [Online Job Board](https://jb.wafflus.com)
 
 ## What tutorials have I made?
 
